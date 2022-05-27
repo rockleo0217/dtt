@@ -4,7 +4,10 @@
 
 ## Getting Started
 ### start docker first
-- make run
+```shell
+$ cd project directory
+$ make run
+```
 
 ### start consumer-msa
 run ConsumerMsaApplication.java 
@@ -15,5 +18,5 @@ run ProducerMsaApplication.java
 ## test
 ### test produce
 ```shell
-curl -XPOST localhost:8080/demo/produce
+$ curl -XPOST localhost:8080/demo/produce
 ```
