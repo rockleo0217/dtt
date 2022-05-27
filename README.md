@@ -5,7 +5,7 @@
 ## Getting Started
 ### start docker first
 ```shell
-$ cd project directory
+$ cd /path/to/project/directory
 $ make run
 ```
 
