@@ -1,1 +1,3 @@
 rootProject.name = 'kafkademo'
+include "producer-msa"
+include "consumer-msa"
