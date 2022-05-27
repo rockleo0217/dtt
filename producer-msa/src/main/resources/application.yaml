@@ -1,0 +1,4 @@
+kafka:
+  bootstrap-servers: http://localhost:9093
+  group-id: foo
+  topic: my-topic
